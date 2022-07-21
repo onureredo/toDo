@@ -8,8 +8,3 @@ w/ @alikhaleghzadegan, @anoj-kt, @chinch42
 trello link:  <!-- https://trello.com/b/fUgeLbEe/tajam -->
  
 github link:  https://github.com/onureredo/toDo
-
-
-
-
-
