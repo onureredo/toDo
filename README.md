@@ -1,5 +1,5 @@
 ### WBS CODING SCHOOL Full-Stack Web & App Development Bootcamp
-### WEEK 3/PROJECT TAJAM
+### WEEK 3 | PROJECT Cookbok
 
 w/ @alikhaleghzadegan, @anoj-kt, @chinch42
 
